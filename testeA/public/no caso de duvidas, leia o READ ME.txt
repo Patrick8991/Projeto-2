@@ -1,0 +1,17 @@
+
+Preguiça de ir até o READ ME? De qualquer forma segue uma copia abaixo...
+
+--------------------------------------------------------------------------
+Projeto de taxonomia de websites para Codesign de Apps
+
+A Pagina Home ou (Main) eh o arquivo que deve ser utilizado para inicializar o HTML, apesar de todas as paginas permitirem acesso a todas as outras...
+
+A pagina Main ou link "home" contem toda a taxonomia do site para o usuário conseguir acessar todos os projetos, ao mesmo tempo contem subcategorias com cada item da taxonomia acima para mais fácil localização de projetos
+Além disso todas as paginas possuem um menu superior com links para todas as engenharias e a pagina Main ("home")
+O menu também possibilita acesso a pagina "Aluno" com as informações básicas do aluno alvo do site (no caso Eduardo Ferrari Magalhães)
+
+EX:
+Main --> Alunos --> Game (Projetos em destaque) --> Main
+Main --> Engenharia Mecânica --> Brinquedo
+Main --> Engenharia Mecatrônica --> Main --> Pensamento Critico --> Singularity
+Main --> Engenharia da computação --> Engenharia mecatrônica --> Estação Metateológica
