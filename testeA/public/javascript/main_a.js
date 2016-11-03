@@ -9,7 +9,7 @@
   };
   firebase.initializeApp(config);
 
-  database = firebase.database();
+  var database = firebase.database();
 
   logs = this.database.ref('logs');
 
