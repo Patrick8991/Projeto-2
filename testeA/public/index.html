@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt">
+<script src="https://www.gstatic.com/firebasejs/3.5.2/firebase.js" >
+  </script>
+  <script>
+  versao = "A"
+
+  </script>
+
+  <script src="scripts/main_a.js"></script>
 	<head>
 		<meta charset="utf-8">
 		<title>Home</title>
@@ -8,7 +16,14 @@
 		<link href="https://fonts.googleapis.com/css?family=Oxygen|Signika|Ubuntu" rel="stylesheet">
 	</head>
 
-	<body>
+	<body onload="tempo_inicial();">
+	<script src="client.min.js"></script>
+      <script>
+        var client = new ClientJS();
+
+        var id_pessoa = client.getFingerprint();
+
+      </script>  
 		<div id="header-background">
 			<div id="header" class="container">
 				<div>
