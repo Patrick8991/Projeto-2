@@ -1,0 +1,172 @@
+{
+  "logs" : {
+    "-KWjGSL2w-zanO3jAeFS" : {
+      "tempo" : 1479335597441,
+      "tipo" : "inicio",
+      "user_id" : 3252958231,
+      "versao" : "B"
+    },
+    "-KWjGUOiZ2GAdaDf_ptW" : {
+      "tempo" : 1479335605869,
+      "tipo" : "final",
+      "user_id" : 3252958231,
+      "versao" : " B"
+    },
+    "-KWjHNPWQyyuXZ-gOtSt" : {
+      "tempo" : 1479335839477,
+      "tipo" : "inicio",
+      "user_id" : 577187932,
+      "versao" : "B"
+    },
+    "-KWjHOY88ygAfB3qgDKC" : {
+      "tempo" : 1479335844037,
+      "tipo" : "final",
+      "user_id" : 577187932,
+      "versao" : " B"
+    },
+    "-KWjHW3bHqQRIdLDuncT" : {
+      "tempo" : 1479335874853,
+      "tipo" : "inicio",
+      "user_id" : 615935401,
+      "versao" : "B"
+    },
+    "-KWjHXTssZzgP4ueRhMq" : {
+      "tempo" : 1479335880631,
+      "tipo" : "final",
+      "user_id" : 770580074,
+      "versao" : " B"
+    },
+    "-KWjIFmgyzknxsmPRoxu" : {
+      "tempo" : 1479336070315,
+      "tipo" : "inicio",
+      "user_id" : 1622822594,
+      "versao" : "B"
+    },
+    "-KWjJxoE_aiPl_nwEA0i" : {
+      "tempo" : 1479336516869,
+      "tipo" : "inicio",
+      "user_id" : 486464327,
+      "versao" : "B"
+    },
+    "-KWjS7FpuYeLxQDXkjwe" : {
+      "tempo" : 1479338656815,
+      "tipo" : "inicio",
+      "user_id" : 486464327,
+      "versao" : "B"
+    },
+    "-KWjSAKg8XQmFcFbwhaB" : {
+      "tempo" : 1479338669419,
+      "tipo" : "final",
+      "user_id" : 2878340635,
+      "versao" : " B"
+    },
+    "-KWjSr1rnv15Gd_w-dHA" : {
+      "tempo" : 1479338848435,
+      "tipo" : "inicio",
+      "user_id" : 3297491019,
+      "versao" : "B"
+    },
+    "-KWjTUVJOQ1-Q2xoi_QL" : {
+      "tempo" : 1479339014160,
+      "tipo" : "inicio",
+      "user_id" : 3086387405,
+      "versao" : "B"
+    },
+    "-KWjTX7zF3jPXWPMgQJw" : {
+      "tempo" : 1479339024958,
+      "tipo" : "final",
+      "user_id" : 665338756,
+      "versao" : " B"
+    },
+    "-KWjfjeeK_b9OJ5N0aJ6" : {
+      "tempo" : 1479342488232,
+      "tipo" : "inicio",
+      "user_id" : 3774183163,
+      "versao" : "B"
+    },
+    "-KWjfkNe_jlfdx-owRNE" : {
+      "tempo" : 1479342491176,
+      "tipo" : "final",
+      "user_id" : 3774183163,
+      "versao" : " B"
+    },
+    "-KWjgI9ipZ_U_3Tubig6" : {
+      "tempo" : 1479342633644,
+      "tipo" : "inicio",
+      "user_id" : 1018248461,
+      "versao" : "B"
+    },
+    "-KWjgKq2m6phBQSV_q_i" : {
+      "tempo" : 1479342644608,
+      "tipo" : "final",
+      "user_id" : 1018248461,
+      "versao" : " B"
+    },
+    "-KWjgNIdCkapx9jB-V2G" : {
+      "tempo" : 1479342654691,
+      "tipo" : "inicio",
+      "user_id" : 277154416,
+      "versao" : "B"
+    },
+    "-KWjlQ-BtrOP3C4443zo" : {
+      "tempo" : 1479343976459,
+      "tipo" : "inicio",
+      "user_id" : 3185562697,
+      "versao" : "B"
+    },
+    "-KWjlTHBLw5u0uJRXM5v" : {
+      "tempo" : 1479343989899,
+      "tipo" : "final",
+      "user_id" : 3185562697,
+      "versao" : " B"
+    },
+    "-KWlwSXYJBvTVs3-LfRa" : {
+      "tempo" : 1479380424955,
+      "tipo" : "inicio",
+      "user_id" : 1078809529,
+      "versao" : "B"
+    },
+    "-KWlwVvcN4EH_L1oyZFT" : {
+      "tempo" : 1479380438759,
+      "tipo" : "final",
+      "user_id" : 3857193483,
+      "versao" : " B"
+    },
+    "-KWlwbpxDri1FvGaNaEB" : {
+      "tempo" : 1479380467064,
+      "tipo" : "inicio",
+      "user_id" : 253497447,
+      "versao" : "B"
+    },
+    "-KWlwfzB1zhml1YtCf6z" : {
+      "tempo" : 1479380484043,
+      "tipo" : "final",
+      "user_id" : 2182502240,
+      "versao" : " B"
+    },
+    "-KWlyEIyTtml8vKl-fZ9" : {
+      "tempo" : 1479380890877,
+      "tipo" : "inicio",
+      "user_id" : 1098286910,
+      "versao" : "B"
+    },
+    "-KWlyFcNrRqjaSrVNzSD" : {
+      "tempo" : 1479380896280,
+      "tipo" : "final",
+      "user_id" : 1431168288,
+      "versao" : " B"
+    },
+    "-KWm3AAMMr3syv5Z4NC5" : {
+      "tempo" : 1479382446801,
+      "tipo" : "inicio",
+      "user_id" : 1584184502,
+      "versao" : "B"
+    },
+    "-KWm3CtbJ-iun1_YAve3" : {
+      "tempo" : 1479382457957,
+      "tipo" : "final",
+      "user_id" : 494234354,
+      "versao" : " B"
+    }
+  }
+}
